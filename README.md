@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gregoire LEGRAND</h1>
 <h3 align="center">A passionate full-stack developer from France</h3>
 
-- 🔭 I’m currently working on **Website of gelkrem**
+- 🔭 I’m currently working on **Website and intern solution of ski-gelkrem entreprise**
+
+- 🌱 I’m currently learning **Frameworks, AI learning machine, AI workflows, Automation, Agentic models**
+
+- 👯 I’m in work-study as an engineer at **Vallourec and INSA Hauts-de-France**
+
+- 👨‍💻 All of my projects are available at [glegrand.fr](glegrand.fr)
+
+- 💬 Ask me about **AI, code architecture,**
+
+- 📫 How to reach me **gregoire.legrand56@gmail.com**
+
+- ⚡ Fun fact **I think everything is possible once you try! Keep it up. I somehow realise I'm funny, I'll give my opinion when asked to. I always try my best to deliver the best feature and can brainstorm to always make better and improve my knowledge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
